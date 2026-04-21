@@ -1,6 +1,9 @@
 Индекс в Git
-это специальная область
+change 5
 расположенная между рабочей директорией (working directory)
 и хранилищем объектов (repository)
 change 1
 change 2
+
+change 3
+change 4
